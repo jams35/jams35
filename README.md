@@ -56,10 +56,10 @@
 ## Social 📫
 
 <div> 
-  <a href="https://www.instagram.com/augusto_mz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/joao_augusto_ms_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-  <a href="mailto:augusto.maia.souza@outlook.com">
-  <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:augusto.maia.souza@outlook.com">
+  <a href="mailto:joao.augusto.ms@outlook.com">
+  <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:joao.augusto.ms@outlook.com">
   </a>
   
   <a href="https://www.linkedin.com/in/jo%C3%A3o-augusto-maia-de-souza-3aa150244/" target="_blank">
