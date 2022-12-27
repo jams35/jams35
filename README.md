@@ -1,33 +1,16 @@
+<h2 align="center"> Hi!! My name is João Augusto Maia de Souza <img height="34px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> </h2>
 
-## Hi!! My name is João Augusto Maia de Souza <img height="34px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
+<h2> About me 🤟 </h2>
 
-<div align="center">
-  <a href="https://github.com/jams35">
-  
-  
-  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=jams35&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  <br/>
-  <br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jams35&layout=compact&langs_count=7&theme=tokyonight"/>
- 
-  <br/>
-  <br/>
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jams35&layout=compact&langs_count=7&theme=tokyonight" /></p>
-</div>
-
-## About me 🤟
   * Brazilian 🇧🇷
-  * Junior web developer 💻;
-  * Computer technician (IFMS) 🖥️🔧;
-  * Systems development technician (SENAC) 🧑‍💻;
-  * Technologist in systems analysis and development (PUCPR) 🧑‍💻;
+  * Junior web developer 💻
+  * Computer technician (IFMS) 🖥️🔧
+  * Systems development technician (SENAC) 🧑‍💻
+  * Technologist in systems analysis and development (PUCPR) 🧑‍💻
 
-## Interests 🎓
+<h2> Interests 🎓 </h2>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 <br/>
   <img align="center" alt="jamz-HTML" height="50" width="40" margin="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   
@@ -53,9 +36,9 @@
    
 </div>
 
-## Social 📫
-
-<div> 
+<h2> Social 📫 </h2>
+<br/>
+<div align="center"> 
   <a href="https://www.instagram.com/joao_augusto_ms_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   <a href="mailto:joao.augusto.ms@outlook.com">
@@ -66,4 +49,23 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
  
+</div>
+
+<h2> Evolution 📈 </h2>
+
+<div align="center">
+  <a href="https://github.com/jams35">
+  
+  
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=jams35&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  <br/>
+  <br/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jams35&layout=compact&langs_count=7&theme=tokyonight"/>
+ 
+  <br/>
+  <br/>
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jams35&layout=compact&langs_count=7&theme=tokyonight" /></p>
 </div>
