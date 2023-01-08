@@ -1,12 +1,10 @@
 <h2 align="center"> Hi!! My name is João Augusto Maia de Souza <img height="34px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> </h2>
 
-<h2> About me 🤟 </h2>
-
   * Brazilian 🇧🇷
-  * Junior web developer 💻
-  * Computer technician (IFMS) 🖥️🔧
-  * Systems development technician (SENAC) 🧑‍💻
-  * Technologist in systems analysis and development (PUCPR) 🧑‍💻
+  * Web developer 💻
+  * Computer technician (<a href="https://www.ifms.edu.br/">IFMS</a>) 🖥️🔧
+  * Systems development technician (<a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">SENAC</a>) 🧑‍💻
+ * Technologist in systems analysis and development (<a href="https://www.pucpr.br/">PUCPR</a>) 🧑‍💻
 
 <h2> Interests 🎓 </h2>
 
