@@ -1,4 +1,4 @@
-<h2 align="center"> Hi!! My name is João Augusto Maia de Souza <img height="34px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3369e8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+Github!;I'm+João+Augusto+Maia+de+Souza)](https://git.io/typing-svg)
 
   * Brazilian 🇧🇷
   * Web developer 💻
@@ -52,13 +52,11 @@
 <h2> Evolution 📈 </h2>
 
 <div align="center">
+
+  <br/>
+  <br/>
   <a href="https://github.com/jams35">
-  
-  
-  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=jams35&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  <br/>
-  <br/>
+ 
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jams35&layout=compact&langs_count=7&theme=tokyonight"/>
  
