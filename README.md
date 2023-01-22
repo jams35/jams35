@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3369e8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+Github!;I'm+João+Augusto+Maia+de+Souza)](https://git.io/typing-svg)
 
+<h2>About me</h2>
+
   * Brazilian 🇧🇷
   * Web developer 💻
   * Computer technician (<a href="https://www.ifms.edu.br/">IFMS</a>) 🖥️🔧
