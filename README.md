@@ -6,7 +6,7 @@
   * Web developer 💻
   * Computer technician (<a href="https://www.ifms.edu.br/">IFMS</a>) 🖥️🔧
   * Systems development technician (<a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">SENAC</a>) 🧑‍💻
- * Technologist in systems analysis and development (<a href="https://www.pucpr.br/">PUCPR</a>) 🧑‍💻
+ * Technologist in systems analysis and development (<a href="https://site.ucdb.br/">UCDB</a>) 🧑‍💻
 
 <h2> Interests 🎓 </h2>
 
