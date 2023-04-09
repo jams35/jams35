@@ -6,7 +6,7 @@
   * Desenvolvedor web 💻
   * Desenvolvedor Java ☕
   * Formado como técnico em informática pelo <a href="https://www.ifms.edu.br/">IFMS</a> 🖥️🔧
-  * Graduando do curco Tecnólogo em Análise e Desenvolvimento de Sistemas pela <a href="https://site.ucdb.br/">UCDB</a> 🧑‍💻
+  * Graduando do curso Tecnólogo em Análise e Desenvolvimento de Sistemas pela <a href="https://site.ucdb.br/">UCDB</a> 🧑‍💻
 
 <h2> Interesse em 🎓 </h2>
 
