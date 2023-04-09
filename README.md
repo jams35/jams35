@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3369e8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome+to+my+Github!;I'm+João+Augusto+Maia+de+Souza)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3369e8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem-vindo(a)+ao+meu+Github!;Eu+sou+João+Augusto+Maia+de+Souza)](https://git.io/typing-svg)
 
-<h2>About me</h2>
+<h2>Sobre mim</h2>
 
-  * Brazilian 🇧🇷
-  * Web developer 💻
-  * Computer technician (<a href="https://www.ifms.edu.br/">IFMS</a>) 🖥️🔧
-  * Systems development technician (<a href="https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy">SENAC</a>) 🧑‍💻
- * Technologist in systems analysis and development (<a href="https://site.ucdb.br/">UCDB</a>) 🧑‍💻
+  * Brasileiro 🇧🇷
+  * Desenvolvedor web 💻
+  * Desenvolvedor Java ☕
+  * Formado como técnico em informática pelo <a href="https://www.ifms.edu.br/">IFMS</a> 🖥️🔧
+  * Graduando do curco Tecnólogo em Análise e Desenvolvimento de Sistemas pela <a href="https://site.ucdb.br/">UCDB</a> 🧑‍💻
 
-<h2> Interests 🎓 </h2>
+<h2> Interesse em 🎓 </h2>
 
 <div style="display: inline_block" align="center">
 <br/>
@@ -53,7 +53,7 @@
  
 </div>
 
-<h2> Evolution 📈 </h2>
+<h2> Evolução 📈 </h2>
 
 <div align="center">
 
