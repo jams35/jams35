@@ -4,9 +4,9 @@
 
   * Brasileiro 🇧🇷
   * Desenvolvedor web 💻
-  * Desenvolvedor Java ☕
   * Formado como técnico em informática pelo <a href="https://www.ifms.edu.br/">IFMS</a> 🖥️🔧
-  * Graduando do curso Tecnólogo em Análise e Desenvolvimento de Sistemas pela <a href="https://site.ucdb.br/">UCDB</a> 🧑‍💻
+  * Acadêmico de Ciência da Computação na <a href="https://site.ucdb.br/">UCDB</a> 🧑‍💻
+  * Acadêmico de Tecnologia da informação na <a href="https://www.ufms.br/">UFMS</a> 🧑‍💻
 
 <h2> Interesse em 🎓 </h2>
 
@@ -41,7 +41,7 @@
 <h2> Social 📫 </h2>
 <br/>
 <div align="center"> 
-  <a href="https://www.instagram.com/joao_augusto_ms_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/joao.augusto.ms/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   <a href="mailto:joao.augusto.ms@outlook.com">
   <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:joao.augusto.ms@outlook.com">
