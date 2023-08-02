@@ -6,7 +6,7 @@
   * Desenvolvedor web 💻
   * Formado como técnico em informática pelo <a href="https://www.ifms.edu.br/">IFMS</a> 🖥️🔧
   * Acadêmico de Ciência da Computação na <a href="https://site.ucdb.br/">UCDB</a> 🧑‍💻
-  * Acadêmico de Tecnologia da informação na <a href="https://www.ufms.br/">UFMS</a> 🧑‍💻
+
 
 <h2> Interesse em 🎓 </h2>
 
