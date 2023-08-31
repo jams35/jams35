@@ -4,8 +4,8 @@
 
   * Brasileiro 🇧🇷
   * Desenvolvedor web 💻
-  * Formado como técnico em informática pelo <a href="https://www.ifms.edu.br/">IFMS</a> 🖥️🔧
-  * Acadêmico de Ciência da Computação na <a href="https://site.ucdb.br/">UCDB</a> 🧑‍💻
+  * Formado como Técnico em Informática pelo <a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/integrados/informatica">IFMS</a> 🖥️🔧
+  * Acadêmico do curso superior de Tecnologia em Sistemas para Internet pelo <a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/graduacao/sistemas-para-internet">IFMS</a> 🧑‍💻
 
 
 <h2> Interesse em 🎓 </h2>
